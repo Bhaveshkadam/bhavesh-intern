@@ -1,4 +1,4 @@
-# <08-03-2022>
+# 08-03-2022
 
 ## First Half
 
@@ -26,7 +26,6 @@
 
 - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/5653618#overview
 - http://notjustcoders.com/java/java8-lambda-expressions/ 
-- Link 1 
 
 ## Second Half
 
