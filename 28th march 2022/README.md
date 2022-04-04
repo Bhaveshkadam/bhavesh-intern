@@ -2,45 +2,44 @@
 
 ## First Half
 
-- HAD A DEMO LEC WITH ABRAR SIR, KUNAL SIR AND AVINASH SIR.
-- HAD DISCUSSION WITH TEAM ABOUT ERD.
+   - HAD A DEMO LEC WITH ABRAR SIR, KUNAL SIR AND AVINASH SIR.
+   - HAD DISCUSSION WITH TEAM ABOUT ERD.
 
-### Videos
+## Videos
 
-- N/A
+   - N/A
 
-### Assignment
+## Assignment
 
-- AMAZON APPLICATION -(PROCESSING)
-- RECONSTRUCT ERD -(PROCESSING)
+   - AMAZON APPLICATION -(PROCESSING)
+   - RECONSTRUCT ERD -(PROCESSING)
 
-### Doubts
+## Doubts
 
-- NO DOUBTS
+   - NO DOUBTS
 
-### Links
+## Links
 
-- ALL ASSIGEMENT LINK HERE:
-- https://drive.google.com/file/d/1xCryLN1crhIOQMHNejxbrpxuiMzK_ikB/view?usp=sharing
+   - ALL ASSIGEMENT LINK HERE:
+   - https://drive.google.com/file/d/1xCryLN1crhIOQMHNejxbrpxuiMzK_ikB/view?usp=sharing
 
 ## Second Half
 
-- START TO RECONSTRUCT ERD. (PROCESSING)
-- READING BLOG ON RELATIONAL DATA 
+   - START TO RECONSTRUCT ERD. (PROCESSING)
+   - READING BLOG ON RELATIONAL DATA
 
-### Videos
+## Videos
 
-- N/A
+   - N/A
 
-### Assignment 
+## Assignment
 
-- AMAZON APPLICATION
+   - AMAZON APPLICATION
 
-### Doubts
+## Doubts
 
-- NO DOUBTS
+   - NO DOUBTS
 
-### Links
-
-- https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-relational-modeling.html
-- https://drive.google.com/file/d/1xCryLN1crhIOQMHNejxbrpxuiMzK_ikB/view?usp=sharing
+## Links
+ - https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-relational-modeling.html
+ - https://drive.google.com/file/d/1xCryLN1crhIOQMHNejxbrpxuiMzK_ikB/view?usp=sharing

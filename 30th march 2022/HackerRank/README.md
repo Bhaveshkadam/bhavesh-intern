@@ -10,10 +10,10 @@
   For example, if there are three records in the table with CITY values 'New York', 'New York', 'Bengalaru', there are 2 different city names: 'New York' and 'Bengalaru'. The query returns 1, because 
 
 
-- Solution :
+## Solution :
 
    - SELECT (COUNT(CITY) - COUNT(DISTINCT CITY)) FROM STATION;
 
-- Link : 
+## Link : 
  
  https://www.hackerrank.com/challenges/weather-observation-station-4/problem

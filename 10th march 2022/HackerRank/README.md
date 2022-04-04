@@ -3,19 +3,18 @@
 ## Problem Statement : 
 
 
-- [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true)
+- Revising the Select Query I
+	- Query all columns for all American cities in the CITY table with populations larger than 100000. The CountryCode for America is USA.
 
-- [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true)
+The CITY table is described as follows: 
 
-- [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true)
+## code : 
 
-- [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true)
+SELECT * FROM CITY
+WHERE 
+COUNTRYCODE = 'USA'
+    AND POPULATION > 100000;
 
-- [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true)
 
-- [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true)
-
-- [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true)
-
-- [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true)
-
+## link: 
+ - https://www.hackerrank.com/challenges/revising-the-select-query/problem
