@@ -1,0 +1,47 @@
+# 07-04-2022
+
+## First Half
+
+- SETUP CODE IN AASHISH LAPTOP AND SIDE BY SIDE CHECK API AND DEBUGGING (COFFEEE)
+
+### Videos
+
+- N/A
+
+### Assignment
+
+- (COFFEEE)
+	- DEBUGS A CODE (PROCESSING)
+	- CHECK APIS (PROCESSING) 
+
+### Doubts
+
+- HAD A DOUBTS WHILE CODE SETUP.  
+- FACING MIGRATION ISSUE 
+
+### Links
+
+- N/A
+
+## Second Half
+
+- DEBUGS A CODE (PROCESSING)
+- CHECK APIS (PROCESSING) 
+
+### Videos
+
+- N/A
+
+### Assignment 
+- (COFFEEE)
+	- DEBUGS A CODE (PROCESSING)
+	- CHECK APIS (PROCESSING) 
+
+
+### Doubts
+
+- N/A
+
+### Links
+
+- N/A
