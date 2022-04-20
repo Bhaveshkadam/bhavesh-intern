@@ -60,7 +60,7 @@
 
 - DATE [14-04-2022](https://github.com/sp18-interns/bhavesh-intern/tree/main/14th%20april%202022)
 
-- DATE [15-04-2022](https://github.com/sp18-interns/bhavesh-intern/tree/main/16th%20april%202022)
+- DATE [15-04-2022](https://github.com/sp18-interns/bhavesh-intern/tree/main/15th%20april%202022)
 
 - DATE [18-04-2022](https://github.com/sp18-interns/bhavesh-intern/tree/main/18th%20april%202022)
 
