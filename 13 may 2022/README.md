@@ -1,4 +1,4 @@
-< 13-05-2022>
+# 13-05-2022
 
 ## First Half
 - Attend standup call 
