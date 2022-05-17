@@ -4,6 +4,7 @@
 - Attend standup call 
 - working on kunal sir's task -- pause
 - start working on coffeee scrpit.
+- write a function for a set_up (clone all the repo in our local system). --done
 
 ### Videos
 - N/A
