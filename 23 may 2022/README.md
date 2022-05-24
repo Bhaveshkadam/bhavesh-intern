@@ -7,7 +7,7 @@
 - 🔄 Exams
 ### Videos
 
-- N/A✅
+- N/A
 
 ### Assignment 
 
