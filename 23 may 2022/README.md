@@ -31,7 +31,7 @@
 
 - ⏸️ kunal sir's task 
 - ⏸️ Coffeee script 
-- 🆕 Working on previous (AmazonBook) 
+- 🆕 Working on previous task (AmazonBook) 
 	- ✅ Book, BookService, BookController 
 	- ⌛ Database Connectivity.
 
