@@ -83,23 +83,4 @@
 
 - DATE [19-05-2022](https://github.com/sp18-interns/bhavesh-intern/tree/main/19%20may%202022)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- DATE [23-05-2022](https://github.com/sp18-interns/bhavesh-intern/tree/main/23%20may%202022)
