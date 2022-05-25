@@ -52,6 +52,6 @@
 
 - N/A
 ## ERD
- - ![ERD]( "AmazonBook ERD")
+ - ![ERD]( https://github.com/sp18-interns/bhavesh-intern/blob/main/24%20may%202022/Amazonbook/AmazonBookv3.drawio.png "AmazonBook ERD")
 
 *********************************************************************************************
