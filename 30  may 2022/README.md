@@ -39,10 +39,13 @@
 	- Try to configure swagger in project.
 	- while configure swaagger take a reference to the (coffeee).
 	- while running application (on local host 8080 port) its show below page.
-	- [ !error message page](https://github.com/sp18-interns/bhavesh-intern/blob/main/30%20%20may%202022/ErrorPage.png "error show")
+	- ![Error message]( https://github.com/sp18-interns/bhavesh-intern/blob/main/30%20%20may%202022/ErrorPage.png
+ "error")
+
 	- After some time I try to configration Swagger with my own assignment (student)
 	- Show same error page
-	- [ ! error message page](https://github.com/sp18-interns/bhavesh-intern/blob/main/30%20%20may%202022/ErrorPage.png "error show")
+	- ![Error message]( https://github.com/sp18-interns/bhavesh-intern/blob/main/30%20%20may%202022/ErrorPage.png
+ "error")
 
 
 ### Videos
