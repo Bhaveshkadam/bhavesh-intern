@@ -36,13 +36,13 @@
 - ⏸️ kunal sir's task.
 - ⏸️ Coffeee script 
 - 🔄 continue on amazonbook
-- Try to configure swagger in project.
-- while configure swaagger take a reference to the (coffeee).
-- while running application (on local host 8080 port) its show below page.
-- [error message page]()
-- after some time I try to configration Swagger with my own assignment (student)
-- show same error page
-- [error message page]()
+	- Try to configure swagger in project.
+	- while configure swaagger take a reference to the (coffeee).
+	- while running application (on local host 8080 port) its show below page.
+	- [error message page](https://github.com/sp18-interns/bhavesh-intern/blob/main/30%20%20may%202022/ErrorPage.png)
+	- After some time I try to configration Swagger with my own assignment (student)
+	- Show same error page
+	- [error message page](https://github.com/sp18-interns/bhavesh-intern/blob/main/30%20%20may%202022/ErrorPage.png)
 
 
 ### Videos
