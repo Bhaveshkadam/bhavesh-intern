@@ -6,20 +6,26 @@
 ### A subsequence of an array is a set of numbers that aren't necessarily adjacent in the array but that are in the same order as they
 appear in the array. For instance, the numbers [1, 3, 4] form a subsequence of the array [1, 2, 3, 4] ,and so do the numbers[2, 4] . Note that a single number in an array and the array Itself are both valid subsequences of the array.
 
-### Sample Input
+## Sample Input
+
+
+
 array = [5, 1, 22, 25, 6,
 sequence = [1, 6, -1, 10]
 
-### Sample Output
+## Sample Output 
 true
 
-## code :
+## code :  
 
+ ```
 import java.util.*;
+
 class Program {
   public static boolean isValidSubsequence(List<Integer> array, List<Integer> sequence) {
   int arrayIndex = 0;
   int sequenceIndex = 0;
+
   while (arrayIndex < array.size() && sequenceIndex < sequence.size()) {
     if (array.get(arrayIndex).equals(sequence.get(sequenceIndex))) {
       sequenceIndex++;
@@ -29,3 +35,4 @@ class Program {
   return sequenceIndex == sequence.size();
   }
 }
+```
