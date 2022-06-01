@@ -91,6 +91,8 @@
 
 - DATE [28-05-2022](https://github.com/sp18-interns/bhavesh-intern/tree/main/28%20may%202022)
 
-- DATE [30-05-2022](https://github.com/sp18-interns/bhavesh-intern/tree/main/30%20may%202022)
+- DATE [30-05-2022](https://github.com/sp18-interns/bhavesh-intern/tree/main/30%20%may%202022)
 
 - DATE [31-05-2022](https://github.com/sp18-interns/bhavesh-intern/tree/main/31%20may%202022)
+
+- DATE [1-06-2022](https://github.com/sp18-interns/bhavesh-intern/tree/main/1%20june%202022)
