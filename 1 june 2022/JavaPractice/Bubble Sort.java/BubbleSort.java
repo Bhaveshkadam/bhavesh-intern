@@ -1,25 +1,6 @@
-# Bubble Sort
 
+// using for loop 
 
-![Bubble Sort]( https://github.com/sp18-interns/bhavesh-intern/blob/main/1%20june%202022/JavaPractice/bubble-sort.gif "Bubble Sort")
-
-
-### Write a function that takes in an array of integers and returns a sorted version of that array. Use the Bubble Sort algorithm to sort the array.
-
-
-## Sample Input
-
-array = [8, 5, 2, 9, 5, 6, 3]
-
-## Sample Output 
-
-[2, 3, 5, 5, 6, 8, 9]
-
-## code :  
-
-### using for loop
-
- ```
 import java.util.*;
 
 class Program {
@@ -36,10 +17,11 @@ class Program {
     return array;
     }
 }
-```
-### using while loop
 
- ```
+
+
+// using while loop
+
 import java.util.*;
 
 class Program {
@@ -59,4 +41,6 @@ class Program {
     return array;
   }
 }
-```
+
+
+
