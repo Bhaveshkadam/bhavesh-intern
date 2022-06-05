@@ -3,7 +3,7 @@
 
 ### CODE
 ```
-class TestGenerics2{
+class Generics {
   public static void main(String args[]){
     Map<Integer,String> map=new HashMap<Integer,String>();
       map.put(1,"Bhavesh");
