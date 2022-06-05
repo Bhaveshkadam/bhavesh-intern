@@ -6,7 +6,7 @@
 - 🔄 Reading blog on java generics.
 - 🔄 AmazonBook
 	- ✅  restructure all the project .
-	- ✅  follow the coffeee pattern .
+	- ✅  follow the coffeee project structure pattern .
 
 ### Videos
 
