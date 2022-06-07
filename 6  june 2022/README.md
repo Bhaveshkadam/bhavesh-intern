@@ -4,8 +4,8 @@
 ## First Half
 - 🔄 JavaPractice
 - 🔄 AmazonBook
-	- Facing error while run a project.. try to slove errors.
-	- try to write a api for addRole.
+	- Facing error while run a project.. try to solve errors.
+	-  write a api for addRole.
 
 ### Videos
 
@@ -32,7 +32,7 @@
 	-  ✅ create a Api for a addLanguage. 
 
 - had meet with kunal sir related to new taks.
-	- 
+	- Assing new task (PASSBOOK) 
 
 
 ### Videos
