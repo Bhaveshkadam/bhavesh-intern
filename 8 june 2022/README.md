@@ -4,7 +4,7 @@
 ## First Half
 - 🔄 JavaPractice
 - 🔄 AmazonBook
-	- write a get api for Genre and Language.
+	- write a get api for Role and Language.
 
 	![API]( https://github.com/sp18-interns/bhavesh-intern/blob/main/8%20june%202022/Api.png "api")
 
